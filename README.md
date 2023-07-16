@@ -1,30 +1,70 @@
-<h1 align="center">Hi 👋, I'm Karasaev Mukhammed</h1>
-<h3 align="center">I am a novice frontend developer from Kazakhstan!</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+# 🏄‍♂️ Forrest Knight
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karasaevm&label=Profile%20views&color=0e75b6&style=flat" alt="karasaevm" /> </p>
+**`Frontend Developer (Designer | Developer)`**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Hi there! I'm Muhammad Karasaev, an aspiring frontend developer from Kazakhstan. I specialize in JavaScript and React, constantly honing my skills to pursue opportunities in leading companies. Passionate about creating engaging user experiences, I'm dedicated to continuous learning and growth.
 
-- 🌱 I’m currently learning **React, Vue, TypeScript**
+   <p align="left">
+      <a href="https://github.com/KarasaevM?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KarasaevM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/KarasaevM?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KarasaevM?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+				 <a href="https://t.me/Delsets">
+         <img alt="telegram" title="telegram" src="https://custom-icon-badges.demolab.com/badge/-Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+				 <a href="https://www.linkedin.com/in/karasaev-m/">
+         <img alt="linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0279FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+				 <a href="https://vk.com/karasaev_m">
+         <img alt="vkontakte" title="vkontakte" src="https://custom-icon-badges.demolab.com/badge/-Vkontakte-0279FF?style=for-the-badge&logo=vk&logoColor=white"/></a> 
+   </p>
 
-- 💬 Ask me about **react**
+---
 
-- 📫 How to reach me **muhammedkarasaev@mail.ru**
+### 🧰 Languages and Tools
 
-- ⚡ Fun fact **I am funny**
+<!-- GIT icon -->
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammed-karasaev-7a109a278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-karasaev-7a109a278" height="30" width="40" /></a>
-<a href="https://instagram.com/__karasaev__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__karasaev__" height="30" width="40" /></a>
-</p>
+<!-- HTML icon -->
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<!-- CSS icon -->
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karasaevm&show_icons=true&locale=en&layout=compact" alt="karasaevm" /></p>
+<!-- JavaScript icon -->
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karasaevm&show_icons=true&locale=en" alt="karasaevm" /></p>
+<!-- React icon -->
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karasaevm&" alt="karasaevm" /></p>
+<!-- GitHub icon -->
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<!-- Adobe Photoshop icon -->
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" />
+
+<!-- WebPack icon -->
+
+<img align="left" alt="WebPack" width="30px" style="padding-right:10px;" src="https://webpack.js.org/icon-square-small.9e8aff7a67a5dd20.svg" />
+
+<!-- Sass icon -->
+
+<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://sass-lang.com/assets/img/logos/logo.svg" />
+
+<!-- Tailwindcss icon -->
+
+<img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://assets.website-files.com/62fa7db457da915c677c5570/62fa886f57da917ae17ce424_Tailwind_CSS_Logo.svg.png" />
+
+<!-- Bootstrap icon -->
+
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" />
+<br />
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarasaevM&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
