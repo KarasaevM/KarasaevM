@@ -1,5 +1,4 @@
-# 🏄‍♂️ Forrest Knight
-
+# 🏄‍♂️ Karasaev Mukhammed
 **`Frontend Developer (Designer | Developer)`**
 
 Hi there! I'm Muhammad Karasaev, an aspiring frontend developer from Kazakhstan. I specialize in JavaScript and React, constantly honing my skills to pursue opportunities in leading companies. Passionate about creating engaging user experiences, I'm dedicated to continuous learning and growth.
