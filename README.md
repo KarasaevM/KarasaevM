@@ -1,7 +1,7 @@
 # 🏄‍♂️ Karasaev Mukhammed
 **`Frontend Developer (Designer | Developer)`**
 
-Hi there! I'm Muhammad Karasaev, an aspiring frontend developer from Kazakhstan. I specialize in JavaScript and React, constantly honing my skills to pursue opportunities in leading companies. Passionate about creating engaging user experiences, I'm dedicated to continuous learning and growth.
+Hi there! I'm Mukhammed Karasaev, an aspiring frontend developer from Kazakhstan. I specialize in JavaScript and React, constantly honing my skills to pursue opportunities in leading companies. Passionate about creating engaging user experiences, I'm dedicated to continuous learning and growth.
 
    <p align="left">
       <a href="https://github.com/KarasaevM?tab=followers">
